@@ -1,0 +1,75 @@
+body {
+  width: 575px;
+  height: 385px;
+  background: #1b244a;
+  margin: 0;
+}
+
+h3 {
+  width: 149px;
+  color: #eee;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35.893px; /* 89.732% */
+}
+
+#home {
+  margin-bottom: 25px;
+  width: 155px;
+  height: 120px;
+  background-color: black;
+}
+
+#home-el {
+  color: #f94f6d;
+  text-align: center;
+  font-family: "Cursed Timer ULiL";
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 126.666px; /* 140.74% */
+}
+
+#guest-el {
+  color: #f94f6d;
+  text-align: center;
+  font-family: "Cursed Timer ULiL";
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 126.666px; /* 140.74% */
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#addpoints {
+  width: 155px;
+  height: 45px;
+}
+button {
+  margin-top: 20px;
+  background-color: #1b244a;
+  width: 45px;
+  height: 45px;
+  border-radius: 5px;
+  border: 2px solid #9aabd8;
+  color: #9aabd8;
+  text-align: center;
+  font-family: "Cursed Timer ULiL", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27.812px; /* 154.509% */
+}
+
+#start-btn {
+  margin-top: 50px;
+  width: 200px;
+  height: 45px;
+}
